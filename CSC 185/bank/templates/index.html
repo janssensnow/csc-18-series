@@ -7,8 +7,12 @@
 
 <form id="account-form">
     <label>Account Number: </label><input name="account_number" type="text"/>
-    <input type="submit"/>
+    <input type="submit">
 </form>
+
+ {% if balance %}
+ Balance: {{ balance }}
+ {% end if %}
 
 </body>
 </html>
