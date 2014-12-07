@@ -10,9 +10,9 @@
     <input type="submit">
 </form>
 
- {% if balance %}
- Balance: {{ balance }}
- {% end if %}
+{% if balance %}
+Balance: {{ balance }}
+{% end if %}
 
 </body>
 </html>
