@@ -12,7 +12,7 @@
 
 {% if balance %}
 Balance: {{ balance }}
-{% end if %}
+{% endif %}
 
 </body>
 </html>
