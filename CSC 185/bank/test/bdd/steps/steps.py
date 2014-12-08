@@ -4,7 +4,7 @@ from webtest import TestApp
 
 from bank_app import app, BANK
 from bank.account import Account
-from bank.bank import Bank
+#from bank.bank import Bank
 
 
 @step(u'account number 0001 is a valid account')

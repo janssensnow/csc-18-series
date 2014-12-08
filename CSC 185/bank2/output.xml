@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<robot generated="20141208 19:45:09.877" generator="Robot 2.8.4 (Python 2.7.6 on linux2)">
+<robot generated="20141208 19:50:19.371" generator="Robot 2.8.4 (Python 2.7.6 on linux2)">
 <suite source="/home/janssensnow/Desktop/CSC 18 codes/CSC 185/bank2/test/robot" id="s1" name="Robot">
 <suite source="/home/janssensnow/Desktop/CSC 18 codes/CSC 185/bank2/test/robot/tests" id="s1-s1" name="Tests">
 <suite source="/home/janssensnow/Desktop/CSC 18 codes/CSC 185/bank2/test/robot/tests/bank.txt" id="s1-s1-s1" name="Bank">
@@ -14,31 +14,31 @@
 <arg>${account_number}</arg>
 <arg>${balance}</arg>
 </arguments>
-<msg timestamp="20141208 19:45:09.920" level="FAIL">No keyword with name 'Create Account' found.</msg>
-<status status="FAIL" endtime="20141208 19:45:09.920" starttime="20141208 19:45:09.919"></status>
+<msg timestamp="20141208 19:50:19.413" level="FAIL">No keyword with name 'Create Account' found.</msg>
+<status status="FAIL" endtime="20141208 19:50:19.414" starttime="20141208 19:50:19.413"></status>
 </kw>
-<status status="FAIL" endtime="20141208 19:45:09.920" starttime="20141208 19:45:09.919"></status>
+<status status="FAIL" endtime="20141208 19:50:19.414" starttime="20141208 19:50:19.413"></status>
 </kw>
 <doc></doc>
 <tags>
 </tags>
-<status status="FAIL" endtime="20141208 19:45:09.920" critical="yes" starttime="20141208 19:45:09.918">No keyword with name 'Create Account' found.</status>
+<status status="FAIL" endtime="20141208 19:50:19.414" critical="yes" starttime="20141208 19:50:19.412">No keyword with name 'Create Account' found.</status>
 </test>
 <doc>Example Robot tests for
 Bank application</doc>
 <metadata>
 </metadata>
-<status status="FAIL" endtime="20141208 19:45:09.921" starttime="20141208 19:45:09.912"></status>
+<status status="FAIL" endtime="20141208 19:50:19.415" starttime="20141208 19:50:19.405"></status>
 </suite>
 <doc></doc>
 <metadata>
 </metadata>
-<status status="FAIL" endtime="20141208 19:45:09.922" starttime="20141208 19:45:09.909"></status>
+<status status="FAIL" endtime="20141208 19:50:19.415" starttime="20141208 19:50:19.403"></status>
 </suite>
 <doc></doc>
 <metadata>
 </metadata>
-<status status="FAIL" endtime="20141208 19:45:09.922" starttime="20141208 19:45:09.877"></status>
+<status status="FAIL" endtime="20141208 19:50:19.416" starttime="20141208 19:50:19.372"></status>
 </suite>
 <statistics>
 <total>
