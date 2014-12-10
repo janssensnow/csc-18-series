@@ -14,4 +14,3 @@ I retrieve the account ${account_number}
 
 the balance should be ${balance}
     Get Balance     ${balance}
-

@@ -1,5 +1,5 @@
 import unittest
-from bank.bank.account import Account
+from bank.account import Account
 from bank.bank.bank import Bank
 
 
