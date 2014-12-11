@@ -1,0 +1,6 @@
+﻿Feature: Using the proxy design pattern to instantiate a huge object 
+         containing 10 million digits
+
+         As a user I want to use the proxy design pattern to instatiate a huge object
+  
+         Scenario: 
